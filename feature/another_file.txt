@@ -1,0 +1,3 @@
+Just another file in feture-1 branch
+
+this file is modiefies locally
